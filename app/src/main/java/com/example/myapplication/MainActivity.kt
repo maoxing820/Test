@@ -20,4 +20,8 @@ class MainActivity : AppCompatActivity() {
     private fun upload(){
         //上传数据
     }
+
+    private fun test(){
+
+    }
 }
